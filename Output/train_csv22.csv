@@ -1,0 +1,7 @@
+IMG_ID,PRED_LAB,ACTUAL_CT,PRED_CT,CT_ERROR,% Error,mAP_Train,mAP_Test,mAP_Predict,GEO_Tag_URL
+DJI_0016.jpg,Yes,7,7,0,0.0,58.2,33.4,,"https://www.google.com/maps/place/-6.2869946,106.870858"
+DJI_0017.jpg,Yes,17,17,0,0.0,58.2,33.4,,"https://www.google.com/maps/place/-6.2869946,106.870858"
+DJI_0020.jpg,Yes,12,12,0,0.0,58.2,33.4,,"https://www.google.com/maps/place/-6.2869946,106.870858"
+DJI_0021.jpg,Yes,9,9,0,0.0,58.2,33.4,,"https://www.google.com/maps/place/-6.2869946,106.870858"
+DJI_0025.jpg,Yes,2,2,0,0.0,58.2,33.4,,"https://www.google.com/maps/place/-6.2869946,106.870858"
+Total_images:,,5,,,,,,,

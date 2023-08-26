@@ -1,0 +1,5 @@
+IMG_ID,PRED_LAB,ACTUAL_CT,PRED_CT,CT_ERROR,% Error,mAP_Train,mAP_Test,mAP_Predict,GEO_Tag_URL
+DJI_0317.jpg,No,0,0,0,0.0,58.2,33.4,,"https://www.google.com/maps/place/-6.2869946,106.870858"
+DJI_0346.jpg,Yes,2,2,0,0.0,58.2,33.4,,"https://www.google.com/maps/place/-6.2869946,106.870858"
+DJI_0347.jpg,Yes,5,5,0,0.0,58.2,33.4,,"https://www.google.com/maps/place/-6.2869946,106.870858"
+Total_images:,,3,,,,,,,
