@@ -10,7 +10,7 @@ from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut, GeocoderUnavailable
 import gradio as gr
 
-# Load the pre-trained model
+#Load the pre-trained model
 model = maskrcnn_resnet50_fpn(pretrained=True)
 model.eval()
 '''
