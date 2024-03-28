@@ -25,7 +25,6 @@ Note: In this code, you need to replace the actual count calculation and mAP cal
 ___________________________________________________________________________
 
 Summary:
-
 1.	Importing the Required Libraries:
       o	The code starts by importing the necessary libraries for the task, including os, torch, csv, maskrcnn_resnet50_fpn from torchvision.models.detection, transforms            from torchvision.transforms, Image from PIL, and the Nominatim geocoder and related exceptions from geopy.geocoders.
 2.	Loading the Pre-trained Model:
